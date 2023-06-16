@@ -4,9 +4,10 @@ REST API for access model
 ### Request
 
 `GET /`
+
     curl -X 'GET' \
-    'https://model-api-uiwtfdqmea-et.a.run.app/' \
-    -H 'accept: application/json'
+      'https://model-api-uiwtfdqmea-et.a.run.app/' \
+      -H 'accept: application/json'
 
 ### Response
 
